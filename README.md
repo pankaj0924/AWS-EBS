@@ -37,6 +37,10 @@ sudo umount /mnt/ebs-data
 - EBS – gp3 (2 GiB)
 - Filesystem – XFS
 
+##Screenshots
+
+
+
 ## Learning Outcome
 Gained practical knowledge of AWS EBS storage management, volume attachment, mounting, unmounting, snapshots, and backup management.
 
