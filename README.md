@@ -37,7 +37,7 @@ sudo umount /mnt/ebs-data
 - EBS – gp3 (2 GiB)
 - Filesystem – XFS
 
-##Screenshots
+## Screenshots
 
 
 
