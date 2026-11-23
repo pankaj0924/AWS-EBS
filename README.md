@@ -40,13 +40,13 @@ sudo umount /mnt/ebs-data
 ## Screenshots
 ## Screenshots
 
-### 1. Filesystem Creation
+### 1. Volume Unmounting
 ![Filesystem Creation](screenshots/Screenshot%202026-11-23%20125017.png)
 
 ### 2. Volume Mounting
 ![Volume Unmounting](screenshots/Screenshot%202026-11-23%20125023.png)
 
-### 3. Volume Unmounting
+### 3. Filesystem Creation
 ![Volume Mounting](screenshots/Screenshot%202026-11-23%20125007.png)
 
 ### 4. Remount Verification
